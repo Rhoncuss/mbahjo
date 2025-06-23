@@ -176,7 +176,7 @@ export default function Friends() {
                   >
                     <div className="flex items-center gap-2">
                       <img
-                        src="/images/avatar.png"
+                        src="https://mbahjo.web.id/wp-content/uploads/2025/06/IMGG.png"
                         alt="avatar"
                         className="object-contain w-8 h-8 rounded-full"
                       />
